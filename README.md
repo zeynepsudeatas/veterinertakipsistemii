@@ -1,11 +1,11 @@
 # veterinertakipsistemii
-echo "# veterinertakipsistemii" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/zeynepsudeatas/veterinertakipsistemii.git
-git push -u origin main
+echo "# veterinertakipsistemii" >> README.md <br/>
+git init <br/>
+git add README.md <br/>
+git commit -m "first commit" <br/>
+git branch -M main <br/>
+git remote add origin https://github.com/zeynepsudeatas/veterinertakipsistemii.git <br/>
+git push -u origin main <br/>
 ![alt text](https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/568185/gettyimages-1171733307.jpg&w=2000&op=resize) 
 ## Projenin amacı
 -Veteriner sistemi ile,gelen hayvanların ve sahiplerinin kaydını yaparak ileriki zamanlarda kolay bir şekilde ulaşmak. <br/> 
