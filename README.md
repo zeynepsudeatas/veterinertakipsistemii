@@ -1,5 +1,11 @@
 # veterinertakipsistemii
-`git status`
+echo "# veterinertakipsistemii" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/zeynepsudeatas/veterinertakipsistemii.git
+git push -u origin main
 ![alt text](https://g.foolcdn.com/image/?url=https%3A//g.foolcdn.com/editorial/images/568185/gettyimages-1171733307.jpg&w=2000&op=resize) 
 ## Projenin amacı
 -Veteriner sistemi ile,gelen hayvanların ve sahiplerinin kaydını yaparak ileriki zamanlarda kolay bir şekilde ulaşmak. <br/> 
@@ -12,3 +18,4 @@
 -Ben bu çalışmada öncelikle görünüşüne önem vermek istiyorum.Fotoğraf ekleyip sistemi daha güzel görünmesini istiyorum. <br/>
 -Bu sitenin içeriğine gelecek olursam,bu kliniğe gelen hastanın kaydını yapıp tedavi sürecini başlatıyoruz.Hayvanın hastalığı,uygun görülen tedavi,verilen ilaç ve iğneler,aşı takvimi,bir sonraki kontrol tarihi veya geçmiş kontrol tarihleri olucak.Sitenin içinde bütün bunlar olucak ki istediğimiz her şeye çok kolay bir şekilde erişebilicez. <br/>
 -Aynı zamanda klinikte yer alan ilaçların,mamaların,aksesauarların sayısının kontrolünü sağlamak,stokta azalmışsa siaprişini eklemeği sağlamak.
+
