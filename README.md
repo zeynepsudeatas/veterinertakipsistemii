@@ -19,3 +19,4 @@ git push -u origin main <br/>
 -Bu sitenin içeriğine gelecek olursam,bu kliniğe gelen hastanın kaydını yapıp tedavi sürecini başlatıyoruz.Hayvanın hastalığı,uygun görülen tedavi,verilen ilaç ve iğneler,aşı takvimi,bir sonraki kontrol tarihi veya geçmiş kontrol tarihleri olucak.Sitenin içinde bütün bunlar olucak ki istediğimiz her şeye çok kolay bir şekilde erişebilicez. <br/>
 -Aynı zamanda klinikte yer alan ilaçların,mamaların,aksesauarların sayısının kontrolünü sağlamak,stokta azalmışsa siaprişini eklemeği sağlamak.
 
+![alt text](https://www.researchgate.net/profile/Christian-Geiger/publication/2378887/figure/fig6/AS:667592461123596@1536177854768/Dog-vs-Cat-Use-Case-Diagram.pbm)
