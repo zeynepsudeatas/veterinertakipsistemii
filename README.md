@@ -21,8 +21,8 @@ git push -u origin main <br/>
 
 ![alt text](https://www.researchgate.net/profile/Christian-Geiger/publication/2378887/figure/fig6/AS:667592461123596@1536177854768/Dog-vs-Cat-Use-Case-Diagram.pbm)
 
-##Katkı Sağlayan
+## Katkı Sağlayan <br/>
 -Zeynep Sude Ataş 192503082
 
-##Kullanılıcak Dil
+## Kullanılıcak Dil <br/>
 -C#
