@@ -20,3 +20,9 @@ git push -u origin main <br/>
 -Aynı zamanda klinikte yer alan ilaçların,mamaların,aksesauarların sayısının kontrolünü sağlamak,stokta azalmışsa siaprişini eklemeği sağlamak.
 
 ![alt text](https://www.researchgate.net/profile/Christian-Geiger/publication/2378887/figure/fig6/AS:667592461123596@1536177854768/Dog-vs-Cat-Use-Case-Diagram.pbm)
+
+##Katkı Sağlayan
+-Zeynep Sude Ataş 192503082
+
+##Kullanılıcak Dil
+-C#
