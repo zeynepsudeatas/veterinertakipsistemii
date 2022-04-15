@@ -26,3 +26,7 @@ git push -u origin main <br/>
 
 ## Kullanılıcak Dil <br/>
 -C#
+
+## Yazılım Geliştirme Süreci <br/>
+-Hasta Kayıt formu sisteme yeni hasta kaydı,mevcut hasta kaydı,bu kayıtların düzenlenmesi ve kayıt silme gibi işlemler için tasarlanmıştır. <br/>
+-Hasta Sahibi Kayıt formu hasta kayıt gibi gelen hastanın sahibinin iletişim bilgileri ile kaydını oluşturmak,güncellemek ve silmek gibi işlemler için tasarlanmıştır. <br/>
