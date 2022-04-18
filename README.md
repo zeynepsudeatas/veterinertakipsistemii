@@ -1,4 +1,4 @@
-# veterinertakipsistemii
+# veterinertakipsistemi
 echo "# veterinertakipsistemii" >> README.md <br/>
 git init <br/>
 git add README.md <br/>
